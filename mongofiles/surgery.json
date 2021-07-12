@@ -1,209 +1,270 @@
-{
-    "doctors": [
-        {
-            "_id": "58f67ae2-8e56-394b-b7f2-2d95ca656e30"
-        },
-        {
-            "_id": "4e5c54f9-aff0-3a31-afea-787fbb00d6aa"
-        },
-        {
-            "_id": "f6ec7ca7-eb06-3067-9e83-243f3af2e5c0"
-        },
-        {
-            "_id": "3932ae09-dcfb-3ada-86c0-1ee8727ba737"
-        },
-        {
-            "_id": "d1168fb9-14a2-314b-bc35-abc1be5567f1"
-        }
-    ],
-    "pharmacists": [
-        {
-            "_id": "9d815abc-466d-3395-9ee6-9a6ac9d4499c"
-        },
-        {
-            "_id": "458af25e-c109-31bb-b46e-256ef30ce04a"
-        }
-    ],
-    "patient": [
-        {
-            "_id": 107435
-        },
-        {
-            "_id": 146653
-        },
-        {
-            "_id": 173380
-        },
-        {
-            "_id": 148461
-        },
-        {
-            "_id": 188464
-        },
-        {
-            "_id": 192611
-        },
-        {
-            "_id": 178665
-        },
-        {
-            "_id": 118972
-        },
-        {
-            "_id": 188662
-        },
-        {
-            "_id": 136095
-        },
-        {
-            "_id": 198744
-        },
-        {
-            "_id": 160381
-        },
-        {
-            "_id": 135101
-        },
-        {
-            "_id": 143778
-        },
-        {
-            "_id": 100311
-        },
-        {
-            "_id": 185775
-        },
-        {
-            "_id": 159361
-        },
-        {
-            "_id": 169836
-        },
-        {
-            "_id": 108103
-        },
-        {
-            "_id": 104696
-        },
-        {
-            "_id": 119041
-        },
-        {
-            "_id": 187711
-        },
-        {
-            "_id": 154164
-        },
-        {
-            "_id": 179648
-        },
-        {
-            "_id": 199546
-        },
-        {
-            "_id": 146159
-        },
-        {
-            "_id": 169372
-        },
-        {
-            "_id": 191691
-        },
-        {
-            "_id": 165653
-        },
-        {
-            "_id": 106962
-        },
-        {
-            "_id": 142963
-        },
-        {
-            "_id": 112151
-        },
-        {
-            "_id": 178743
-        },
-        {
-            "_id": 180241
-        },
-        {
-            "_id": 181299
-        },
-        {
-            "_id": 115022
-        },
-        {
-            "_id": 177705
-        },
-        {
-            "_id": 176574
-        },
-        {
-            "_id": 107811
-        },
-        {
-            "_id": 176642
-        },
-        {
-            "_id": 119767
-        },
-        {
-            "_id": 166840
-        },
-        {
-            "_id": 134881
-        },
-        {
-            "_id": 184383
-        },
-        {
-            "_id": 177482
-        },
-        {
-            "_id": 101921
-        },
-        {
-            "_id": 167109
-        },
-        {
-            "_id": 149441
-        },
-        {
-            "_id": 122237
-        },
-        {
-            "_id": 177430
-        },
-        {
-            "_id": 128241
-        },
-        {
-            "_id": 105168
-        },
-        {
-            "_id": 178297
-        },
-        {
-            "_id": 194032
-        },
-        {
-            "_id": 197395
-        },
-        {
-            "_id": 140849
-        },
-        {
-            "_id": 166391
-        },
-        {
-            "_id": 137581
-        },
-        {
-            "_id": 172659
-        },
-        {
-            "_id": 130766
-        }
-    ]
-}
+[
+    {
+        "doctor_id": "ee5afbcf-a732-32b7-b48e-85e5b75384a8",
+        "type": "doctor"
+    },
+    {
+        "doctor_id": "b3d33a45-6ac1-32cc-bdc0-eca1862f3198",
+        "type": "doctor"
+    },
+    {
+        "doctor_id": "b5b74719-5d22-3810-87b1-045f40a1fc01",
+        "type": "doctor"
+    },
+    {
+        "doctor_id": "4074fc84-ed30-3cf3-a010-bd75299cec14",
+        "type": "doctor"
+    },
+    {
+        "doctor_id": "4382a2d3-93d9-3b6b-b142-2d0aacd10695",
+        "type": "doctor"
+    },
+    {
+        "pharmacist_id": "5d8e3722-d489-30ac-87b0-31f87090cb8c",
+        "type": "pharmacist"
+    },
+    {
+        "pharmacist_id": "1719cfa0-40a4-3d18-a4e7-3f7e395b5d33",
+        "type": "pharmacist"
+    },
+    {
+        "patient_id": 185711,
+        "type": "patient"
+    },
+    {
+        "patient_id": 126255,
+        "type": "patient"
+    },
+    {
+        "patient_id": 112708,
+        "type": "patient"
+    },
+    {
+        "patient_id": 103348,
+        "type": "patient"
+    },
+    {
+        "patient_id": 196856,
+        "type": "patient"
+    },
+    {
+        "patient_id": 130352,
+        "type": "patient"
+    },
+    {
+        "patient_id": 159554,
+        "type": "patient"
+    },
+    {
+        "patient_id": 132001,
+        "type": "patient"
+    },
+    {
+        "patient_id": 102390,
+        "type": "patient"
+    },
+    {
+        "patient_id": 115824,
+        "type": "patient"
+    },
+    {
+        "patient_id": 178204,
+        "type": "patient"
+    },
+    {
+        "patient_id": 156162,
+        "type": "patient"
+    },
+    {
+        "patient_id": 102877,
+        "type": "patient"
+    },
+    {
+        "patient_id": 145451,
+        "type": "patient"
+    },
+    {
+        "patient_id": 198116,
+        "type": "patient"
+    },
+    {
+        "patient_id": 117119,
+        "type": "patient"
+    },
+    {
+        "patient_id": 154304,
+        "type": "patient"
+    },
+    {
+        "patient_id": 163238,
+        "type": "patient"
+    },
+    {
+        "patient_id": 137718,
+        "type": "patient"
+    },
+    {
+        "patient_id": 131278,
+        "type": "patient"
+    },
+    {
+        "patient_id": 101302,
+        "type": "patient"
+    },
+    {
+        "patient_id": 168825,
+        "type": "patient"
+    },
+    {
+        "patient_id": 161365,
+        "type": "patient"
+    },
+    {
+        "patient_id": 180932,
+        "type": "patient"
+    },
+    {
+        "patient_id": 130531,
+        "type": "patient"
+    },
+    {
+        "patient_id": 164912,
+        "type": "patient"
+    },
+    {
+        "patient_id": 187785,
+        "type": "patient"
+    },
+    {
+        "patient_id": 147020,
+        "type": "patient"
+    },
+    {
+        "patient_id": 173484,
+        "type": "patient"
+    },
+    {
+        "patient_id": 125817,
+        "type": "patient"
+    },
+    {
+        "patient_id": 186491,
+        "type": "patient"
+    },
+    {
+        "patient_id": 196152,
+        "type": "patient"
+    },
+    {
+        "patient_id": 111148,
+        "type": "patient"
+    },
+    {
+        "patient_id": 182278,
+        "type": "patient"
+    },
+    {
+        "patient_id": 179984,
+        "type": "patient"
+    },
+    {
+        "patient_id": 168677,
+        "type": "patient"
+    },
+    {
+        "patient_id": 127332,
+        "type": "patient"
+    },
+    {
+        "patient_id": 112239,
+        "type": "patient"
+    },
+    {
+        "patient_id": 118548,
+        "type": "patient"
+    },
+    {
+        "patient_id": 159103,
+        "type": "patient"
+    },
+    {
+        "patient_id": 122483,
+        "type": "patient"
+    },
+    {
+        "patient_id": 166364,
+        "type": "patient"
+    },
+    {
+        "patient_id": 194306,
+        "type": "patient"
+    },
+    {
+        "patient_id": 179640,
+        "type": "patient"
+    },
+    {
+        "patient_id": 127659,
+        "type": "patient"
+    },
+    {
+        "patient_id": 147288,
+        "type": "patient"
+    },
+    {
+        "patient_id": 169945,
+        "type": "patient"
+    },
+    {
+        "patient_id": 178136,
+        "type": "patient"
+    },
+    {
+        "patient_id": 180871,
+        "type": "patient"
+    },
+    {
+        "patient_id": 183182,
+        "type": "patient"
+    },
+    {
+        "patient_id": 134626,
+        "type": "patient"
+    },
+    {
+        "patient_id": 172627,
+        "type": "patient"
+    },
+    {
+        "patient_id": 186171,
+        "type": "patient"
+    },
+    {
+        "patient_id": 110929,
+        "type": "patient"
+    },
+    {
+        "patient_id": 175624,
+        "type": "patient"
+    },
+    {
+        "patient_id": 114067,
+        "type": "patient"
+    },
+    {
+        "patient_id": 163325,
+        "type": "patient"
+    },
+    {
+        "patient_id": 161140,
+        "type": "patient"
+    },
+    {
+        "patient_id": 183382,
+        "type": "patient"
+    },
+    {
+        "patient_id": 181743,
+        "type": "patient"
+    }
+]

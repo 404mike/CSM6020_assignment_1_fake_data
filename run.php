@@ -70,22 +70,25 @@ class GenerateTables {
 
     // doctors
     foreach($this->doctors as $dk => $dv) {
-      $surgery['doctors'][] = [
-        '_id' => $dv['_id']
+      $surgery[] = [
+        'doctor_id' => $dv['_id'],
+        'type' => 'doctor'
       ];
     }
 
     // pharmacists
     foreach($this->pharmacists as $pk => $pv) {
-      $surgery['pharmacists'][] = [
-        '_id' => $pv['_id']
+      $surgery[] = [
+        'pharmacist_id' => $pv['_id'],
+        'type' => 'pharmacist'
       ];
     }
 
     // patient
     foreach($this->patients as $paK => $paV) {
-      $surgery['patient'][] = [
-        '_id' => $paV['nhs_id']
+      $surgery[] = [
+        'patient_id' => $paV['nhs_id'],
+        'type' => 'patient'
       ];
     }
 
