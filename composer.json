@@ -1,0 +1,12 @@
+{
+    "name": "dmj12/uni",
+    "require": {
+        "fakerphp/faker": "^1.15"
+    },
+    "authors": [
+        {
+            "name": "Mike Jones",
+            "email": "michaeljones401@gmail.com"
+        }
+    ]
+}
